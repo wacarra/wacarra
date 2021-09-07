@@ -1,0 +1,9 @@
+matplotlib
+numpy
+pandas
+scipy
+seaborn
+shapely
+statsmodels
+pingouin
+jupyter_dash
